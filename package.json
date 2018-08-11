@@ -1,0 +1,26 @@
+{
+  "name": "react-ssr-setup",
+  "version": "1.0.0",
+  "description": "BoilerBlate to Create React Server Rendered Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:ajayvarghese/react-ssr-setup.git"
+  },
+  "keywords": [
+    "React",
+    "SSR",
+    "Webpack",
+    "Redux",
+    "Router"
+  ],
+  "author": "Ajay Varghese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajayvarghese/react-ssr-setup/issues"
+  },
+  "homepage": "https://github.com/ajayvarghese/react-ssr-setup#readme"
+}
