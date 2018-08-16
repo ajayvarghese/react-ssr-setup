@@ -1,19 +1,13 @@
-import React from "react";
+import React, { Fragment } from "react";
 import { Link, Switch, Route } from "react-router-dom";
 import Home from "./../Pages/Home/index";
-// import About from "./About";
-// import Contact from "./Contact";
+import Contact from "./../Pages/Contact/index";
 
-// const Home = () => <div>Home</div>;
 const About = () => <div>About</div>;
-const Contact = () => <div>Contact</div>;
-
 class App extends React.Component {
-  /* ... */
-
   render() {
     return (
-      <div>
+      <Fragment>
         <h1>{"asdsd"}</h1>
         <div>
           <Link to="/">Home</Link>
@@ -25,7 +19,7 @@ class App extends React.Component {
           <Route path="/about" exact component={About} />
           <Route path="/contact" exact component={Contact} />
         </Switch>
-      </div>
+      </Fragment>
     );
   }
 }

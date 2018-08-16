@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="602px" height="634px" viewBox="0 0 602 634" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>75265F80-1E92-48CA-8829-F45B2AD2B0DE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#DDDDDD" offset="0%"></stop>
+            <stop stop-color="#676767" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#F9F9F9" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#F9F9F9" offset="0%"></stop>
+            <stop stop-color="#E3E3E3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#F8F8F8" offset="0%"></stop>
+            <stop stop-color="#F7F7F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-838.000000, -3939.000000)" fill-rule="nonzero">
+            <g id="abstract-5" transform="translate(1279.500000, 4222.000000) rotate(-180.000000) translate(-1279.500000, -4222.000000) translate(837.000000, 3871.000000)">
+                <g id="abs-5-b" transform="translate(-0.000000, 0.000000)">
+                    <polygon id="Rectangle-13" fill="url(#linearGradient-1)" opacity="0.100000001" points="-1.98951966e-13 415.090137 718.957206 5.68434189e-13 884.03542 285.923854 165.078214 701.013991"></polygon>
+                    <polygon id="Rectangle-13" fill="url(#linearGradient-2)" points="158.358984 368.743005 597.878992 114.986009 665 231.243005 225.479991 485"></polygon>
+                </g>
+                <g id="abs-5-a" transform="translate(352.000000, 207.000000)">
+                    <rect id="Rectangle-13" fill="url(#linearGradient-3)" opacity="0.900000036" transform="translate(248.784264, 89.364737) rotate(-30.000000) translate(-248.784264, -89.364737) " x="120.284264" y="60.3647367" width="257" height="58"></rect>
+                    <rect id="Rectangle-13" fill="url(#linearGradient-4)" opacity="0.900000036" transform="translate(130.784264, 100.024991) rotate(-30.000000) translate(-130.784264, -100.024991) " x="2.28426439" y="61.0249907" width="257" height="78"></rect>
+                    <rect id="Rectangle-13" fill="#D12F2F" transform="translate(120.576369, 149.932331) rotate(-30.000000) translate(-120.576369, -149.932331) " x="67.3719609" y="144.932331" width="106.408816" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

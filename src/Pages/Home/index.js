@@ -1,22 +1,29 @@
 import React from 'react';
+import classNames from 'classnames';
+// import styles from './home.css';
+import styles from './home.css'
+import {connect} from "react-redux";
+import { initializeSession } from "./../../store";
 
-import './../../global.css';
+// import k from './../../images/dp.jpg';
 
-const Home = () => {
+
+const Home = (props) => {
+  props.firstAction();
   return (
     <div>
-        <section className="banner">
-          <div className="banner__content">
-            <div className="banner__content-img tw-enterprise-graph"></div>
-            <div className="banner__title">
+        <section className={"banner"}>
+          <div className={"banner__content"}>
+            <div className={"banner__content-img tw-enterprise-graph"}></div>
+            <div className={"banner__title"}>
               <span id="bannerTitleText1">RAZORTHINK </span>
-              <span className="bold" id="bannerTitleText2">AI</span>
+              <span className={"bold"} id="bannerTitleText2">AI</span>
             </div>
-            <div className="banner__text tw-banner__text">
+            <div className={"banner__text tw-banner__text"}>
               <div>
                 <span>THE</span>
               </div>
-              <div className="highlight">
+              <div className={"highlight"}>
                 <span>FIRST TRUE</span>
               </div>
               <div>
@@ -27,19 +34,19 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className="banner__footer tw-banner__footer" data-tween-to-top>
-            <div className="banner__footer__card" data-scrollto="visual-ai-studio">
-              <h4 className="banner__footer__card-title">VISUAL AI
+          <div className={"banner__footer tw-banner__footer"} data-tween-to-top>
+            <div className={"banner__footer__card"} data-scrollto="visual-ai-studio">
+              <h4 className={"banner__footer__card-title"}>VISUAL AI
                 <br />STUDIO</h4>
-              <p className="banner__footer__card-desc">Prototype, build and manage complex AI models with an easy to use visual interface.</p>
+              <p className={"banner__footer__card-desc"}>Prototype, build and manage complex AI models with an easy to use visual interface.</p>
             </div>
-            <div className="banner__footer__card" data-scrollto="cutting-edge-dl">
-              <h4 className="banner__footer__card-title">CUTTING EDGE
+            <div className={"banner__footer__card"} data-scrollto="cutting-edge-dl">
+              <h4 className={"banner__footer__card-title"}>CUTTING EDGE
                 <br /> DL AND AUTO-ML</h4>
-              <p className="banner__footer__card-desc">Build complex AI solutions using the latest out-of-the box DL algorithms or make effortless predictions with Auto-ML.</p>
+              <p className={"banner__footer__card-desc"}>Build complex AI solutions using the latest out-of-the box DL algorithms or make effortless predictions with Auto-ML.</p>
             </div>
-            <div className="banner__footer__card" data-scrollto="architecture">
-              <h4 className="banner__footer__card-title">ENTERPRISE ARCHITECTURE</h4>
+            <div className={"banner__footer__card"} data-scrollto="architecture">
+              <h4 className={"banner__footer__card[-title"}>ENTERPRISE ARCHITECTURE</h4>
               <p className="banner__footer__card-desc">Collaborate. Deploy. Monitor. Scale. Everything that you’d expect to securely craft an enterprise ready AI solution.</p>
             </div>
             <div className="banner__footer__card" data-scrollto="ai-solutions">
@@ -54,10 +61,10 @@ const Home = () => {
         <div className="content">
     
           <section className="home-section ai-studio" id="visual-ai-studio">
-            <div className="home-section__content width-container clearfix" data-parallax-scene="px-ai-studio">
+            <div id="cssMod" className={classNames("home-section__content", styles["width-container"], 'clearfix')} data-parallax-scene="px-ai-studio">
               <div className="ai-studio__left">
                 <div>
-                  <div className="section__main-title tw-title" data-tween-trigger data-visibility="dp">
+                  <div className={"section__main-title"} data-tween-trigger data-visibility="dp">
                     <div data-tween-el>
                       <span className="tw-title-bg"></span>
                       <span className="tw-title-text">VISUAL</span>
@@ -95,7 +102,7 @@ const Home = () => {
               </div>
               <div className="ai-studio__right">
                 <div className="ai-studio__preview">
-                  <img src="./images/AI-Platform/hero/screenshot.png" />
+                  <img id="imgFile" src={'static/images/Home/section-1/enterprise-graph.png'} />
                 </div>
                 <div className="ai-studio__card-list" data-tween-trigger>
                   <div className="ai-studio__card" data-stagger-card>
@@ -443,4 +450,15 @@ const Home = () => {
   )
 };
 
-export default Home;
+const mapStateToProps = (state, ownProps) => {
+  return state;
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return {
+      // same effect
+      firstAction : () => dispatch(initializeSession()),
+  }
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(Home);

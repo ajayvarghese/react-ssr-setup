@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>87301361-41DC-4F39-9BD5-8E7F4C688912</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-917.000000, -3045.000000)" fill="#8D89FF" fill-rule="nonzero">
+            <g id="section-4" transform="translate(171.000000, 2740.000000)">
+                <g id="Auto-ML" transform="translate(746.000000, 305.000000)">
+                    <rect id="Rectangle-26-Copy-8" x="34" y="14" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-26-Copy-9" x="34" y="24" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-26-Copy-10" x="34" y="34" width="4" height="4" rx="2"></rect>
+                    <circle id="Oval-8-Copy-6" cx="4" cy="24" r="2"></circle>
+                    <path d="M4,40 C1.790861,40 0,38.209139 0,36 C0,33.790861 1.790861,32 4,32 C6.209139,32 8,33.790861 8,36 C8,38.209139 6.209139,40 4,40 Z M4,38 C5.1045695,38 6,37.1045695 6,36 C6,34.8954305 5.1045695,34 4,34 C2.8954305,34 2,34.8954305 2,36 C2,37.1045695 2.8954305,38 4,38 Z" id="Combined-Shape"></path>
+                    <circle id="Oval-8-Copy-7" cx="4" cy="14" r="2"></circle>
+                    <circle id="Oval-8-Copy-8" cx="4" cy="4" r="2"></circle>
+                    <circle id="Oval-8-Copy-9" cx="14" cy="4" r="2"></circle>
+                    <circle id="Oval-8-Copy-10" cx="14" cy="14" r="2"></circle>
+                    <circle id="Oval-8-Copy-11" cx="24" cy="4" r="2"></circle>
+                    <path d="M-0.251262658,16.5060967 L45.263456,16.5060967 C45.8157407,16.5060967 46.263456,16.9538119 46.263456,17.5060967 L46.263456,17.5060967 C46.263456,18.0583814 45.8157407,18.5060967 45.263456,18.5060967 L-0.251262658,18.5060967 C-0.803547408,18.5060967 -1.25126266,18.0583814 -1.25126266,17.5060967 L-1.25126266,17.5060967 C-1.25126266,16.9538119 -0.803547408,16.5060967 -0.251262658,16.5060967 Z" id="Rectangle-25-Copy" transform="translate(22.506097, 17.506097) rotate(-45.000000) translate(-22.506097, -17.506097) "></path>
+                    <rect id="Rectangle-26-Copy-11" x="24" y="34" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-26-Copy-12" x="24" y="24" width="4" height="4" rx="2"></rect>
+                    <rect id="Rectangle-26-Copy-13" x="14" y="34" width="4" height="4" rx="2"></rect>
+                    <path d="M38,2 L32,2 C31.4477153,2 31,1.55228475 31,1 C31,0.44771525 31.4477153,0 32,0 L39,0 C39.5522847,-1.01453063e-16 40,0.44771525 40,1 L40,8 C40,8.55228475 39.5522847,9 39,9 C38.4477153,9 38,8.55228475 38,8 L38,2 Z" id="Path-9"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="864px" height="791px" viewBox="0 0 864 791" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>626C50DA-D00A-4283-A5BA-C0794BBD8CC0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#C1C1C1" offset="0%"></stop>
+            <stop stop-color="#676767" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#EFEFEF" offset="0%"></stop>
+            <stop stop-color="#D5D5D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#F9F9F9" offset="0%"></stop>
+            <stop stop-color="#BFBFBF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#F8F8F8" offset="0%"></stop>
+            <stop stop-color="#F7F7F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(0.000000, -406.000000)" fill-rule="nonzero">
+            <g id="abstract-1" transform="translate(-210.000000, 406.000000)">
+                <rect id="Rectangle-13" fill="url(#linearGradient-1)" opacity="0.100000001" transform="translate(632.017710, 440.506995) rotate(-30.000000) translate(-632.017710, -440.506995) " x="216.927574" y="275.428781" width="830.180273" height="330.156428"></rect>
+                <rect id="Rectangle-13" fill="url(#linearGradient-1)" opacity="0.100000001" transform="translate(442.017710, 350.506995) rotate(-30.000000) translate(-442.017710, -350.506995) " x="26.9275735" y="185.428781" width="830.180273" height="330.156428"></rect>
+                <rect id="Rectangle-13" fill="url(#linearGradient-2)" transform="translate(324.000000, 470.006995) rotate(-30.000000) translate(-324.000000, -470.006995) " x="90.2430047" y="402.885988" width="467.513991" height="134.242015"></rect>
+                <rect id="Rectangle-13" fill="url(#linearGradient-3)" opacity="0.900000036" transform="translate(440.784264, 416.364737) rotate(-30.000000) translate(-440.784264, -416.364737) " x="312.284264" y="387.364737" width="257" height="58"></rect>
+                <rect id="Rectangle-13" fill="url(#linearGradient-4)" opacity="0.900000036" transform="translate(407.784264, 488.364737) rotate(-30.000000) translate(-407.784264, -488.364737) " x="279.284264" y="459.364737" width="257" height="58"></rect>
+                <rect id="Rectangle-13" fill="#D12F2F" transform="translate(348.246242, 487.432331) rotate(-30.000000) translate(-348.246242, -487.432331) " x="300.041834" y="482.432331" width="96.4088158" height="10"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

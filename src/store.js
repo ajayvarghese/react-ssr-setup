@@ -17,7 +17,7 @@ export const fetchData = ( ) => ( dispatch ) =>
 const sessionReducer = ( state = false, action ) => {
     switch ( action.type ) {
         case "INITIALIZE_SESSION":
-            return true;
+            return 'INITIALIZE SESSION';
         default: return state;
     }
 };
